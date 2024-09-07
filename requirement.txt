@@ -1,0 +1,3 @@
+plotly = Version: 5.24.0
+pandas = Version: 2.2.2
+streamlit = Version: 1.38.0
